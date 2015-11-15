@@ -21,3 +21,6 @@ def main():
 
     print("Testing foo11: ")
     foo11.speak()
+
+if __name__ == "__main__":
+    main()
